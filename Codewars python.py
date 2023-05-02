@@ -7,3 +7,4 @@
         # if n % 2 != 0:
             # return seq[s.index(n)]
 
+3ga3ga
